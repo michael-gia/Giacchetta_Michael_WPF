@@ -6,7 +6,7 @@ WPF 1411
 11-03-2014
  */
 
-alert("Testing 1,2,3");
+//alert("Testing 1,2,3");
 
 
 //If teletubbies are trying to hug every person in the world.
@@ -20,7 +20,8 @@ alert("Testing 1,2,3");
 
  var hugradious = numberOfTelies * numberOfTellieMiles;
 
- console.log("When the Teletubbies move into America on their hug rampage they will be able to cover "+hugradious+" miles, hugging everything in sight")
+ console.log("When the Teletubbies move into America on their hug rampage they will be able to cover "+hugradious+" miles,\n"+
+ " hugging everything in sight")
 
 
 //Those Teletubbies are crazy
