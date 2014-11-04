@@ -22,7 +22,12 @@ var costPerDayTotal = photosTaken.length * costPerDay;
 
  //Lets say that two companies hosted the conference and are splitting the totaly bill for the photographer.
 
- 
+ var totalCost =costPerDayTotal + costPerPictureTotal;
+ var finalInvoice = totalCost /2;
+
+ console.log("The conferance lasted "+photosTaken.length+" days. Over the course of that time "+totalPhotos+" photos were taken.\n"+
+ "With the fee of $"+costPerDay+" per day, combined with the fee of "+costPerPicture+" cents per picture brings the total cost to $"+totalCost+".\n" +
+ "Your company owes a total of $"+finalInvoice+".");
 
 
 
