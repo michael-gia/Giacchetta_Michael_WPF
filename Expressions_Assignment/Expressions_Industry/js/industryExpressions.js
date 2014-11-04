@@ -10,9 +10,17 @@ WPF 1411
 
 //For this I am going to create an invoice for a photographer covering a a conferance.
 
- var photosTaken =[145, 200, 500,];
+ var costPerDay =150
+ var photosTaken =[440, 200, 500,];
  var totalPhotos = photosTaken[0]+photosTaken[1]+photosTaken[2];
 
- 
+
+
+var photoFees = photosTaken.length * costPerDay; 
+
+
+
+
+
 
 
