@@ -15,7 +15,7 @@ WPF 1411
  console.log(results);
 
  //To Cast a variable as a number
- //Number() - anything inside of the () is treater as a number - if it makes sense
+ //Number() - anything inside of the () is treated as a number - if it makes sense
 
  var castingResults = 7 + Number(stringVar);
  console.log(castingResults);
