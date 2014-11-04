@@ -18,7 +18,9 @@ alert("Testing 1,2,3");
 
  var peoplePerContinent = numberOfPeople / numberOfContinents;
 
- //
+ //How do the Teletubbies need to disburse to hug everyone in the world?
+
+ 
 
 
 

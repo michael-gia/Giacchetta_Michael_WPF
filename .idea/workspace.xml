@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63eeb17f-65ec-4c3e-8af0-5c623af3c8fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 4/js/day4Casting.js" afterPath="$PROJECT_DIR$/Day 4/js/day4Casting.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Assignment/Expression_Wacky/js/wackyExpressions.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expression_Wacky/js/wackyExpressions.js" />
     </list>
     <ignored path="Giacchetta_Michael_WPF.iws" />
@@ -80,8 +79,8 @@
       <file leaf-file-name="wackyExpressions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expression_Wacky/js/wackyExpressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41899443" vertical-offset="0" max-vertical-offset="716">
-              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.46089387" vertical-offset="0" max-vertical-offset="716">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -515,8 +514,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Assignment/Expression_Wacky/js/wackyExpressions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41899443" vertical-offset="0" max-vertical-offset="716">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.46089387" vertical-offset="0" max-vertical-offset="716">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
