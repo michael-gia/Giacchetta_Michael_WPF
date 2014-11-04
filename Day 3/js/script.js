@@ -91,10 +91,10 @@ console.log(evenOrOdd);
 = - Assigns the value to the variable
 ++ Add 1 to the value of the variable
 -- Subtracts 1 to the value of the variable
-+= Adds the number to the value of the variable
--= Subtracts the number to the value of the variable
-/= dives the value of the variable by the number
-*= Multiply the value of the variable by the number
++ = Adds the number to the value of the variable
+- = Subtracts the number to the value of the variable
+/ = divides the value of the variable by the number
+* = Multiply the value of the variable by the number
  */
 
 var x = 1;
