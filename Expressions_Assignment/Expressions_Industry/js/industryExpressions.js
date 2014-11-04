@@ -20,7 +20,7 @@ WPF 1411
 var costPerDayTotal = photosTaken.length * costPerDay;
  var costPerPictureTotal = totalPhotos * costPerPicture;
 
- //Lets say that two companies hosted the conference and are splitting the totaly bill for the photographer.
+ //Lets say that two companies hosted the conference and are splitting the totally bill for the photographer.
 
  var totalCost =costPerDayTotal + costPerPictureTotal;
  var finalInvoice = totalCost /2;
