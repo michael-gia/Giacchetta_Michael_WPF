@@ -28,7 +28,7 @@ WPF 1411
  var cupsLeftOver = kCupsbought - totalCupsUsed;
 
  console.log("From the "+kCupBoxs+" boxes of k-cups you bought at the beginning of the month, You used "+totalCupsUsed+" k-cups." +
- "\n This leaves you with "+cupsLeftOver+" k-cups at the end of the month.");
+ "\nThis leaves you with "+cupsLeftOver+" k-cups left at the end of the month.");
 
 
 
