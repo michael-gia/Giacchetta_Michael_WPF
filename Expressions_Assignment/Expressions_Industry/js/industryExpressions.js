@@ -8,7 +8,7 @@ WPF 1411
 
 //alert("Testing 1,2,3");
 
-//For this I am going to create an invoice for a photographer covering a a conferance.
+//For this I am going to create an invoice for a photographer covering a a conference.
 
  var costPerDay =150
  var costPerPicture =.25
@@ -25,7 +25,7 @@ var costPerDayTotal = photosTaken.length * costPerDay;
  var totalCost =costPerDayTotal + costPerPictureTotal;
  var finalInvoice = totalCost /2;
 
- console.log("The conferance lasted "+photosTaken.length+" days. Over the course of that time "+totalPhotos+" photos were taken.\n"+
+ console.log("The conference lasted "+photosTaken.length+" days. Over the course of that time "+totalPhotos+" photos were taken.\n"+
  "With the fee of $"+costPerDay+" per day, combined with the fee of "+costPerPicture+" cents per picture brings the total cost to $"+totalCost+".\n" +
  "Your company owes a total of $"+finalInvoice+".");
 
