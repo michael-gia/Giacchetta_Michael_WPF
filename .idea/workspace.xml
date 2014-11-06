@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63eeb17f-65ec-4c3e-8af0-5c623af3c8fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/js/conditionalsWorksheet.js" afterPath="$PROJECT_DIR$/Conditionals_worksheet/js/conditionalsWorksheet.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_worksheet/conditionalsWorksheet.html" afterPath="$PROJECT_DIR$/Conditionals_worksheet/expressionsAndConditionals.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_worksheet/js/conditionalsWorksheet.js" afterPath="$PROJECT_DIR$/Conditionals_worksheet/js/expressionsAndConditionals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Giacchetta_Michael_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -106,21 +108,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conditionalsWorksheet.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/conditionalsWorksheet.js">
+      <file leaf-file-name="expressionsAndConditionals.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/expressionsAndConditionals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5907173" vertical-offset="0" max-vertical-offset="711">
-              <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conditionalsWorksheet.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/conditionalsWorksheet.html">
+      <file leaf-file-name="expressionsAndConditionals.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/expressionsAndConditionals.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.1091703" vertical-offset="0" max-vertical-offset="687">
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -161,6 +163,7 @@
         <option value="$PROJECT_DIR$/Day 5/js/day5Ternary.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/conditionalsWorksheet.html" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/js/conditionalsWorksheet.js" />
+        <option value="$PROJECT_DIR$/Conditionals_worksheet/js/expressionsAndConditionals.js" />
       </list>
     </option>
   </component>
@@ -506,6 +509,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
           <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -620,14 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/conditionalsWorksheet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 5/ternary.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
@@ -644,10 +640,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/conditionalsWorksheet.js">
+    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/expressionsAndConditionals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5907173" vertical-offset="0" max-vertical-offset="711">
-          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/expressionsAndConditionals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1091703" vertical-offset="0" max-vertical-offset="687">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
           <folding />
         </state>
       </provider>
