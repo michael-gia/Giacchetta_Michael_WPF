@@ -14,12 +14,18 @@ WPF 1411
  var gasEfficency = 32
  var tankGuageReading = .25
  var gasCapacity = 16
+ var distanceRemaining = 200
+
 
  var gallonsRemaining =  gasCapacity * tankGuageReading;
+ var remainingTankDistance = gallonsRemaining * gasEfficency;
+ //128 miles left
 
 
+ if (distanceRemaining<=remainingTankDistance) {
+  console.log("Yes, you can make it without stopping for gas!");
 
- if (gallonsRemaining){
-
-
+ } else {
+  console.log("You only have X gallons of gas in your tank, better get gas now while you can!");
  }
+
