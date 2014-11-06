@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63eeb17f-65ec-4c3e-8af0-5c623af3c8fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/multipleResults/js/multipleResults.js" afterPath="$PROJECT_DIR$/Conditionals_worksheet/multipleResults/js/multipleResults.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js" afterPath="$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js" />
     </list>
     <ignored path="Giacchetta_Michael_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,8 +99,18 @@
       <file leaf-file-name="multipleConditions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10548523" vertical-offset="0" max-vertical-offset="711">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.21097046" vertical-offset="0" max-vertical-offset="711">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="multipleConditions.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/multipleConditions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -154,6 +164,7 @@
         <option value="$PROJECT_DIR$/Conditionals_worksheet/js/expressionsAndConditionals.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/multipleResults/multipleResults.html" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/multipleResults/js/multipleResults.js" />
+        <option value="$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/multipleConditions.html" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js" />
       </list>
     </option>
@@ -219,6 +230,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Conditionals_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Giacchetta_Michael_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Giacchetta_Michael_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multipleConditions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -683,10 +712,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/multipleConditions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10548523" vertical-offset="0" max-vertical-offset="711">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.21097046" vertical-offset="0" max-vertical-offset="711">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
