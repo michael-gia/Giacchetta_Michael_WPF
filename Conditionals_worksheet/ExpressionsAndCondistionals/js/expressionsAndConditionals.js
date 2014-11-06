@@ -22,10 +22,6 @@ WPF 1411
  //128 miles left
 
 
- if (distanceRemaining<=remainingTankDistance) {
-  console.log("Yes, you can make it without stopping for gas!");
-
- } else {
-  console.log("You only have "+gallonsRemaining+" gallons of gas in your tank, better get gas now while you can!");
- }
+ (distanceRemaining>=remainingTankDistance) ? console.log("Yes, you can make it without stopping for gas!")
+     : console.log("You only have "+gallonsRemaining+" gallons of gas in your tank, better get gas now while you can!");
 
