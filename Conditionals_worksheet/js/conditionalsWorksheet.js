@@ -26,6 +26,6 @@ WPF 1411
   console.log("Yes, you can make it without stopping for gas!");
 
  } else {
-  console.log("You only have X gallons of gas in your tank, better get gas now while you can!");
+  console.log("You only have "+gallonsRemaining+" gallons of gas in your tank, better get gas now while you can!");
  }
 
