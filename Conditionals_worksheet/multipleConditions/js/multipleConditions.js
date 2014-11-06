@@ -9,7 +9,7 @@ WPF 1411
 //alert("Testing 1,2,3");
 
  var frontTirePressure =[32,32];
- var backTirePressure =[30,33];
+ var backTirePressure =[30,30];
 
  if ((frontTirePressure[0]==frontTirePressure[1]) && (backTirePressure[0]==backTirePressure[1])) {
   console.log("The tires pass pec!");
