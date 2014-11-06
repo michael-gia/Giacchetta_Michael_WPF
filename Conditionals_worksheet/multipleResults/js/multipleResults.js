@@ -8,16 +8,21 @@ WPF 1411
 
 //alert("Testing 1,2,3");
 
- var username = prompt("Please Enter Username");
- var password = prompt("Please Enter Password");
- var correctName = "Hodor";
- var correctPass = "8675309"
+ var username = prompt("Please Select Username");
+ var password = prompt("Please Select Password");
+ var correctName = "hodor";
+ var correctPass = "8675309";
 
-if (username===correctName && username){
-  console.log("");
+if (username==correctName && password==correctPass) {
+ console.log("Welcome");
+
+} else if (!(username==correctName)){
+  console.log("User not found. Try again");
+
+ } else if (!(password==correctPass)){
+ console.log("Password does not match our records");
 
 }
-
 
 
 
