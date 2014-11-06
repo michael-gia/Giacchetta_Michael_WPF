@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63eeb17f-65ec-4c3e-8af0-5c623af3c8fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/ExpressionsAndCondistionals/js/expressionsAndConditionals.js" afterPath="$PROJECT_DIR$/Conditionals_worksheet/ExpressionsAndCondistionals/js/expressionsAndConditionals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js" afterPath="$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js" />
     </list>
     <ignored path="Giacchetta_Michael_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -89,8 +89,8 @@
       <file leaf-file-name="multipleConditions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23206751" vertical-offset="0" max-vertical-offset="711">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.5485232" vertical-offset="0" max-vertical-offset="711">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -155,8 +155,8 @@
         <option value="$PROJECT_DIR$/Conditionals_worksheet/multipleResults/multipleResults.html" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/multipleResults/js/multipleResults.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/multipleConditions.html" />
-        <option value="$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/ExpressionsAndCondistionals/js/expressionsAndConditionals.js" />
+        <option value="$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js" />
       </list>
     </option>
   </component>
@@ -659,8 +659,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23206751" vertical-offset="0" max-vertical-offset="711">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.5485232" vertical-offset="0" max-vertical-offset="711">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
