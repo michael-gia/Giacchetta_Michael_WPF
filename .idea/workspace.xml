@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63eeb17f-65ec-4c3e-8af0-5c623af3c8fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 5/js/day5SteakTemp.js" afterPath="$PROJECT_DIR$/Day 5/js/day5SteakTemp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 5/js/day5LogicalOperators.js" afterPath="$PROJECT_DIR$/Day 5/js/day5LogicalOperators.js" />
     </list>
     <ignored path="Giacchetta_Michael_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,21 +66,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day5LogicalOperators.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 5/js/day5LogicalOperators.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10548523" vertical-offset="0" max-vertical-offset="711">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="day5LogicalOperators.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 5/day5LogicalOperators.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
               <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day5LogicalOperators.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 5/js/day5LogicalOperators.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.87341774" vertical-offset="69" max-vertical-offset="780">
+              <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -115,8 +115,8 @@
         <option value="$PROJECT_DIR$/Day 5/js/day5Conditionals.js" />
         <option value="$PROJECT_DIR$/Day 5/steakTemp.html" />
         <option value="$PROJECT_DIR$/Day 5/js/day5SteakTemp.js" />
-        <option value="$PROJECT_DIR$/Day 5/js/day5LogicalOperators.js" />
         <option value="$PROJECT_DIR$/Day 5/day5LogicalOperators.html" />
+        <option value="$PROJECT_DIR$/Day 5/js/day5LogicalOperators.js" />
       </list>
     </option>
   </component>
@@ -570,8 +570,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 5/js/day5LogicalOperators.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10548523" vertical-offset="0" max-vertical-offset="711">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.87341774" vertical-offset="69" max-vertical-offset="780">
+          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
           <folding />
         </state>
       </provider>
