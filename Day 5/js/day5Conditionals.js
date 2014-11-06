@@ -39,19 +39,28 @@ Code if true goes here
  // If teh kid is over 48" tall, then he can ride the ride.
 
  //Create a variable to hold the kids height
- var kidHeight = 47;
+ var kidHeight = 44;
 
  //add a sneaker lift
  var sneakerLift = 2;
 
+ //Create a variable for kid minimum height
+ var minHeight = 48;
+
+ //If your parent goes on the ride with you - 45" and over can ride
+ var wParentHeight = 45;
+
  // If statment
 
- if(kidHeight > 48){
+ if(kidHeight > minHeight){
     //True code goes
-    console.log("Congrats, your tall enough to ride.");
+     console.log("Congrats, your tall enough to ride.");
 
- }  else if (kidHeight+sneakerLift >48){
-      console.log("You can ride the ride, you cheater!");
+ }  else if (kidHeight>=wParentHeight ){
+     console.log("You can ride, but with your parent.");
+
+ } else if (kidHeight+sneakerLift >48){
+     console.log("You can ride the ride if you wear sneaker lifts!");
 
 
  }  else {
