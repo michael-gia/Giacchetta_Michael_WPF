@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63eeb17f-65ec-4c3e-8af0-5c623af3c8fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6/js/day6NestingIfs.js" afterPath="$PROJECT_DIR$/Day 6/js/day6NestingIfs.js" />
-    </list>
+    <list default="true" id="63eeb17f-65ec-4c3e-8af0-5c623af3c8fb" name="Default" comment="" />
     <ignored path="Giacchetta_Michael_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +34,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day6NestingIfs.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day6NestingIfs.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 6/js/day6NestingIfs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09282701" vertical-offset="309" max-vertical-offset="1125">
+            <state vertical-scroll-proportion="0.0" vertical-offset="309" max-vertical-offset="1125">
               <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day6Math.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 6/js/day6Math.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.21097046" vertical-offset="0" max-vertical-offset="711">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day6Math.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 6/day6Math.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -89,6 +107,8 @@
         <option value="$PROJECT_DIR$/Conditionals_worksheet/multipleConditions/js/multipleConditions.js" />
         <option value="$PROJECT_DIR$/Day 6/day6NestingIfs.html" />
         <option value="$PROJECT_DIR$/Day 6/js/day6NestingIfs.js" />
+        <option value="$PROJECT_DIR$/Day 6/day6Math.html" />
+        <option value="$PROJECT_DIR$/Day 6/js/day6Math.js" />
       </list>
     </option>
   </component>
@@ -309,22 +329,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 5/js/day5LogicalOperators.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="780">
-          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5/ternary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="240">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 5/js/day5Ternary.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="810">
@@ -679,8 +683,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 6/js/day6NestingIfs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09282701" vertical-offset="309" max-vertical-offset="1125">
+        <state vertical-scroll-proportion="0.0" vertical-offset="309" max-vertical-offset="1125">
           <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6/day6Math.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6/js/day6Math.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21097046" vertical-offset="0" max-vertical-offset="711">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
