@@ -14,13 +14,16 @@ WPF 1411
  //If it is warm enough, lets go to the beach, if not lets go to the movies.
  //If the water is warm enough, lets go swimming, if not lets just lay out and get a tan.
 
-
+//Choose between Kids movies or Horror - are you taking a child?
 
  // Get temp
- var temp =69;
+ var temp =49;
 
  //Get the water temp
- var waterTemp =60;
+ var waterTemp =80;
+
+ //Are you taking a child?
+ var child = true;
 
 
  // if else statement
@@ -28,18 +31,39 @@ WPF 1411
  if(temp>70){
   console.log("Lets go to the beach!");
 
+  waterTemp = prompt("What is the water temp?");
+
+
+  //Test teh water temp
+   if(waterTemp>75){
+    console.log("Lets go swimming in the water!");
+
+  } else {
+     console.log("Lets lay out and get a tan!");
+   }
+
  } else {
   console.log("Lets go to the movies!");
 
+    if(child){
+
+     childAge = prompt("How old is the child?");
+
+     if(childAge<=6) {
+
+      console.log("Let's see the smurf movie");
+
+     }else {
+       console.log("Lets go see Indiana Jones");
+      }
+     //console.log("Go see and animated feature!");
+
+  } else {
+     console.log("Bring the horror!");
+  }
+
  }
 
 
- //Test teh water temp
- if(waterTemp>75){
-  console.log("Lets go swimming in the water!");
 
- } else{
-  console.log("Lets lay out and get a tan!");
-
- }
 
