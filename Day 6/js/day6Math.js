@@ -70,4 +70,24 @@ var num8 = Math.round(Math.random()* 100);
 var num9 = Math.round(Math.random()*(80-50)+50);
  console.log(num9);
 
- 
+ //Prompt the user for a max and min value
+ //Then find a random number between them
+
+ var max =prompt("Let's find a random number, whats the max value:");
+ var min = prompt("Please type in a min number");
+
+ //Find the random integer
+ var randomnum =(Math.random() *(max-min)+ Number(min));
+ console.log(randomnum);
+  console.log("Your random number is "+randomnum);
+
+ //Math class constant
+ //Number that never changes
+ //Always uppercase
+ // Math.PI - 3.1459.........
+ //Circum of a circle
+ //2 * pi*r
+
+ var radious =7;
+ var circleArea = 2*Math.PI * radious;
+ console.log(circleArea);
