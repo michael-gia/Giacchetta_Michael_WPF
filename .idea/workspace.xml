@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63eeb17f-65ec-4c3e-8af0-5c623af3c8fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignment_Conditionals/Industry/js/industryConditionals.js" afterPath="$PROJECT_DIR$/Assignment_Conditionals/Industry/js/industryConditionals.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignment_Conditionals/Personal/js/personalConditionals.js" afterPath="$PROJECT_DIR$/Assignment_Conditionals/Personal/js/personalConditionals.js" />
     </list>
     <ignored path="Giacchetta_Michael_WPF.iws" />
@@ -37,21 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day6NestingIfs.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day6NestingIfs.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 6/js/day6NestingIfs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12693936" vertical-offset="360" max-vertical-offset="1125">
+            <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1125">
               <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="personalConditionals.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="personalConditionals.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assignment_Conditionals/Personal/js/personalConditionals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.809591" vertical-offset="71" max-vertical-offset="780">
+              <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -781,18 +780,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment_Conditionals/Personal/js/personalConditionals.js">
+    <entry file="file://$PROJECT_DIR$/Day 6/js/day6NestingIfs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1125">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 6/js/day6NestingIfs.js">
+    <entry file="file://$PROJECT_DIR$/Assignment_Conditionals/Personal/js/personalConditionals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12693936" vertical-offset="360" max-vertical-offset="1125">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.809591" vertical-offset="71" max-vertical-offset="780">
+          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
           <folding />
         </state>
       </provider>

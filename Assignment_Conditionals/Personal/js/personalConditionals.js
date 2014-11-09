@@ -19,7 +19,7 @@ WPF 1411
 
 
 
-if (weatherTemp>=80) {
+if (weatherTemp>=65) {
  console.log("Lets go kayaking!");
 
  numberOfPeople = prompt("How many people are we hanging out with today?")
@@ -27,9 +27,20 @@ if (weatherTemp>=80) {
   if(numberOfPeople<=numOfKayaks){
     console.log("Sweet, we have enough kayaks for everyone!");
   } else {
-   console.log("We don't have enough kayaks, Lets go the a coffee shop.");
+   console.log("We don't have enough kayaks, lets play some frisbee golf!");
   }
 
 } else {
-   console.log("Coffee Time!");
+ console.log("Coffee shop Time!");
+
+ numberOfPeople = prompt("How many people are we hanging out with today?")
+ beerorCoffee = prompt("How many people really want coffee right now?");
+
+
+ if (beerorCoffee < numberOfPeople / 2) {
+  console.log("Lets go get some beer instead.");
+
+ } else {
+  console.log("Cool, coffee shop it is");
+ }
 }
