@@ -22,7 +22,7 @@ var costPerMile = .55;
 
  console.log(milageCost); //For the sake of seeing what mile count comes out it in cash with the .55 per mile I added this console log.
 
-
+//This if statment is taking into account how many miles will be traveled and if the budget allows for that. If we are going far, we must account for overnight stays.
  if (milageCost<=budget && travelDistance>800){
    console.log("Lets start the trip, but "+travelDistance+" pretty far.");
   //I'm betting that a trip over 800 miles is going to take a while So I am calculating in lodging costs.
@@ -32,10 +32,10 @@ var costPerMile = .55;
        console.log("We can't afford a motel that costs "+lodgingCost+", lets find something cheaper or consider sleeping in the car.");
      }
 
-
+//this else if is the outcome if the trip is not that far and we can afford it.
  } else if(milageCost<=budget && travelDistance<800) {
    console.log("Enjoy your trip!");
-
+//this else is the outcome of the travel being so for that it outright does not fit the budget.
  } else {
   console.log("You can't afford to travel that far, I guess you have to fly!");
  }
