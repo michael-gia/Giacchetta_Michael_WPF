@@ -13,16 +13,24 @@ WPF 1411
  //We can calculate out the cost and reimbursement
 
 var travelDistance = prompt("How many miles will you be traveling");
-var budget = 200;
+var budget = 600;
 var costPerMile = .55;
  var milageCost = costPerMile * travelDistance;
+ var remainingBudget = budget-milageCost;
 
- if (milageCost<=budget){
-   console.log("Lets get to traveling!");
+ console.log(milageCost);
 
+ if (milageCost<=budget && travelDistance>800){
+   console.log("Lets start the trip, but we are going pretty far.");
+    var lodgingCost = prompt("How much is a Motel going to cost for a night?");
+     
+
+
+ } else if(milageCost<=budget && travelDistance<800) {
+   console.log("Enjoy your trip!");
 
  } else {
-  console.log("You can't afford to go that far.");
+  console.log("You can't afford to travel that far, I guess you have to fly!");
  }
 
 
