@@ -9,11 +9,16 @@ WPF 1411
 //alert("Testing 1,2,3");
 
 
+
+//We want to figure out how many apples and pencils it takes to cover a roof with pancakes and how many pancakes it will take to do so.
+ //I figured I'd take the idea of wacky and go way out there with it
+
 var pencils = prompt("How many pencils do you have?");
  var apples = prompt("How many apples do you have");
 
- var pancakesOnRoof = Number(pencils) + Number(apples);
 
+//Now that we have how many penciles and apples we have, lets see how many pancakes are on the roof
+ var pancakesOnRoof = Number(pencils) + Number(apples);
  console.log("With "+pencils+" Pencils and "+apples+" Apples, how many pancakes will you have on the roof?");
 
  if (pancakesOnRoof>=20 && pancakesOnRoof <=100) {
