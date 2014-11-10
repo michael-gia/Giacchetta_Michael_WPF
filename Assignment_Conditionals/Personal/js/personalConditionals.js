@@ -37,7 +37,7 @@ WPF 1411
  console.log("Coffee shop Time!");
 
  numberOfPeople = prompt("How many people are we hanging out with today?")
-  
+
   //Maybe more of the group are beer people, lets ask them!
 
  beerorCoffee = prompt("How many people really want coffee right now?");
