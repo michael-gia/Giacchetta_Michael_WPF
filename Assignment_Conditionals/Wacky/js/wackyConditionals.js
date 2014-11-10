@@ -17,7 +17,7 @@ var pencils = prompt("How many pencils do you have?");
  var apples = prompt("How many apples do you have");
 
 
-//Now that we have how many penciles and apples we have, lets see how many pancakes are on the roof
+//Now that we have how many pencils and apples we have, lets see how many pancakes are on the roof
  var pancakesOnRoof = Number(pencils) + Number(apples);
  console.log("With "+pencils+" Pencils and "+apples+" Apples, how many pancakes will you have on the roof?");
 
@@ -27,7 +27,7 @@ var pencils = prompt("How many pencils do you have?");
  } else if (pancakesOnRoof>=20 && (pancakesOnRoof>100)) {
    console.log("Shfifty Fiave!");
 
-  } else if (pancakesOnRoof<19) {
+  } else if (pancakesOnRoof<20) {
    console.log("Pink because the wacky assignment made him as mad as a hatter!");
   }
 

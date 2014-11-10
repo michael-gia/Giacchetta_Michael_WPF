@@ -34,15 +34,15 @@ WPF 1411
   //If we don't want to be outside than let grab a drink!
 
 } else {
- console.log("Coffee shop Time!");
-
+ console.log("Coffee shop Time!");}
  numberOfPeople = prompt("How many people are we hanging out with today?")
 
   //Maybe more of the group are beer people, lets ask them!
 
- beerorCoffee = prompt("How many people really want coffee right now?");
+ beerorCoffee = prompt("How many people out of "+numberOfPeople+" really want coffee right now?");
 
-
+ //Here is the original code before it is made into a ternary.
+/*
  if (beerorCoffee < numberOfPeople / 2) {
   console.log("Lets go get some beer instead.");
 
@@ -50,3 +50,6 @@ WPF 1411
   console.log("Cool, coffee shop it is");
  }
 }
+*/
+ //Here is the if else statment turned into ternary format
+ (beerorCoffee > (numberOfPeople /2) ) ? console.log("Lets go get some beer instead!") : console.log("Just making sure we still want to do coffee.") ;
