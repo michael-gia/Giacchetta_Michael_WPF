@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63eeb17f-65ec-4c3e-8af0-5c623af3c8fb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7/js/day7Beer.js" afterPath="$PROJECT_DIR$/Day 7/js/day7Beer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7/js/day7Zombies.js" afterPath="$PROJECT_DIR$/Day 7/js/day7Zombies.js" />
     </list>
     <ignored path="Giacchetta_Michael_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,21 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bottleofBeer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bottleofBeer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 7/bottleofBeer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10980967" vertical-offset="0" max-vertical-offset="683">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
               <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day7Zombies.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="day7Zombies.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 7/js/day7Zombies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.32107496" vertical-offset="88" max-vertical-offset="795">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -123,8 +123,8 @@
         <option value="$PROJECT_DIR$/Assignment_Conditionals/Personal/js/personalConditionals.js" />
         <option value="$PROJECT_DIR$/Day 7/bottleofBeer.html" />
         <option value="$PROJECT_DIR$/Day 7/js/day7Beer.js" />
-        <option value="$PROJECT_DIR$/Day 7/js/day7Zombies.js" />
         <option value="$PROJECT_DIR$/Day 7/day7Zombies.html" />
+        <option value="$PROJECT_DIR$/Day 7/js/day7Zombies.js" />
       </list>
     </option>
   </component>
@@ -690,18 +690,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7/js/day7Zombies.js">
+    <entry file="file://$PROJECT_DIR$/Day 7/bottleofBeer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7/bottleofBeer.html">
+    <entry file="file://$PROJECT_DIR$/Day 7/js/day7Zombies.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10980967" vertical-offset="0" max-vertical-offset="683">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.32107496" vertical-offset="88" max-vertical-offset="795">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding />
         </state>
       </provider>
