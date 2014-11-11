@@ -19,7 +19,7 @@ WPF 1411
 
  var numBites = 4; //Number of bites, per zombie, per day
 
- var days =8; //Number of days
+ var days =1; //Number of days
 
 
 
@@ -28,6 +28,7 @@ WPF 1411
 
  //Loop number of days
 
+/*
  for(var i=1; i<=days; i++){
 
   //How many new zombies get made and when do they go bite people.
@@ -44,4 +45,20 @@ WPF 1411
 
  }
 
+*/
 
+ //How many day will it take us to get to 1 million zombies
+
+ while(numZombies<1000000){
+
+  var newZombies =numZombies*numBites;
+
+  //The bitten people now become zombies
+  numZombies= numZombies+newZombies; //numZombies += newZombies;
+
+  console.log("There are now "+numZombies+" zombies on day #"+days+"!");
+
+  days++;
+
+
+ }
