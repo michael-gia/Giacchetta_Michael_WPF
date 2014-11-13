@@ -19,7 +19,10 @@ WPF 1411
 
  var circumference = calcCircum(radius);
  console.log("The Circumference of the circle is " +Math.round(circumference)+".");
- 
+
+ //Here are the varibles for bees stings
+
+ var victimWeight
 
 
 
