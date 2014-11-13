@@ -53,7 +53,7 @@ function beeStings(weight){
   return circumference;
  }
 
-
+//This is my validateion function for inputs that require a number
  function validateMe(userPrompt){
   while(userPrompt==="" || isNaN(userPrompt)) {
    userPrompt = prompt("Please type in only numbers and don't leave blank.");
