@@ -36,7 +36,7 @@ WPF 1411
 
 
 
-
+//I am adding all the function down at the bottom.
 
 
 function beeStings(weight){
