@@ -15,26 +15,36 @@ WPF 1411
  radius = validateMe(radius);
 
 
-
-
  var circumference = calcCircum(radius);
  console.log("The Circumference of the circle is " +Math.round(circumference)+".");
 
- //Here are the varibles for bees stings
+ //Here are the variables for bees stings
 
- var victimWeight
-
-
-
+ var victimWeight =prompt("What is the weight of the animal?");
+ victimWeight = validateMe(victimWeight);
 
 
-
+ console.log("It takes "++" bee stings to kill this animal.");
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+function beeStings(weight){
+
+ var numberOfStings = weight *8.666666667;
+ return numberOfStings;
+
+}
 
 
  function calcCircum(r) {
@@ -42,7 +52,6 @@ WPF 1411
   var circumference = 2*Math.PI*r;
   return circumference;
  }
-
 
 
  function validateMe(userPrompt){
