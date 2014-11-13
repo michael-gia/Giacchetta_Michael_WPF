@@ -9,6 +9,8 @@ WPF 1411
 //alert("Testing 1,2,3");
 
 
+
+//Here is the prompt for the radius of the circle
  var radius = prompt("Please type in the radius of the circle?");
  radius = validateMe(radius);
 
@@ -45,7 +47,6 @@ function beeStings(weight){
  return numberOfStings;
 
 }
-
 
  function calcCircum(r) {
 
