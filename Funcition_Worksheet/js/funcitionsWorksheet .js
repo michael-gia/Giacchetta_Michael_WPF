@@ -8,8 +8,6 @@ WPF 1411
 
 //alert("Testing 1,2,3");
 
- var width = 5;
- var height = 6;
 
  var radius = prompt("Please type in the radius of the circle?");
  radius = validateMe(radius);
@@ -23,8 +21,10 @@ WPF 1411
  var victimWeight =prompt("What is the weight of the animal?");
  victimWeight = validateMe(victimWeight);
 
+ var stingsToKill =beeStings(victimWeight)
 
- console.log("It takes "++" bee stings to kill this animal.");
+
+ console.log("It takes "+Math.round(stingsToKill)+" bee stings to kill this animal.");
 
 
 
@@ -55,9 +55,7 @@ function beeStings(weight){
 
 
  function validateMe(userPrompt){
-
-  while(userPrompt==="" || isNaN(userPrompt)){
-
+  while(userPrompt==="" || isNaN(userPrompt)) {
    userPrompt = prompt("Please type in only numbers and don't leave blank.");
   } return userPrompt;
   }
