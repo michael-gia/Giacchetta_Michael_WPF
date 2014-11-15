@@ -11,12 +11,16 @@ WPF 1411
 //Trying to calculate how many tiles we will need to resurface the kitchen floor.
  // How much will it cost to get the tiles.
 
- var floorArea =prompt("What is the area of the kitchen?");
- var tileSpace = 2; //Square feet
+ var floorArea =prompt("How many square feet is the kitchen?");
+ var tileSpec = 2; //Square feet
  var costPerTile =prompt("How much does each time cost?");
+ 
 
 
- function tileAmount(ta){
+ function tileAmount(area,tilespec,cost){
+
+    var howMany = area/tilespec;
+    var cost = howMany*cost;
 
 
 
