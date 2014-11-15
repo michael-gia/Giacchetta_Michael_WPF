@@ -14,15 +14,52 @@ WPF 1411
  var floorArea =prompt("How many square feet is the kitchen?");
  var tileSpec = 2; //Square feet
  var costPerTile =prompt("How much does each time cost?");
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  function tileAmount(area,tilespec,cost){
 
     var howMany = area/tilespec;
-    var cost = howMany*cost;
-
-
+    var totalCost = howMany*cost;
+     return howMany;
+     return totalCost;
 
  }
 
