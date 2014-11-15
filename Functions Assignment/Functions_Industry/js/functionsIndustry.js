@@ -17,8 +17,8 @@ WPF 1411
  var tileSpec = 2; //Square feet
  var costPerTile =prompt("How much does each time cost?");
 
-//Here is the funcation call and variable that uses the function
- tileAmount()
+//Here is the function call and variable that uses the function
+
 var results =tileAmount(floorArea,tileSpec,costPerTile);
 
  console.log("While redoing your kitchen floor that is "+floorArea+" Sq feet, you will need "+(floorArea/tileSpec)+" tiles.\nIf the cost per tile is "+costPerTile+" your total cost will be "+results.toFixed(2)+".");
