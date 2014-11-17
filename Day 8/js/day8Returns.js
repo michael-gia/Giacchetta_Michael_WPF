@@ -69,7 +69,7 @@ WPF 1411
 
  //Creating a validation function
 
- function validateMe(userPrompt){
+ function validateMeNum(userPrompt){
 
   while(userPrompt==="" || isNaN(userPrompt)){
 
