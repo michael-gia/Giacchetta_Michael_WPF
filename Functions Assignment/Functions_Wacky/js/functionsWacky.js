@@ -19,7 +19,7 @@ WPF 1411
 
 //Here are the amount of players
 
- var name = prompt("What is your name?");
+ //var name = prompt("What is your name?");
  name =validateMeWord(name);
  console.log("Hello "+name+", you are player number 1.");
 
@@ -29,9 +29,36 @@ WPF 1411
    //console.log(player1);
    //console.log(player2);
 
-rps();
- rps2();
-var playerOutcom = rps(player1);
+
+
+ console.log("Looks like you got "+rps(player1)+" and player 2 got "+rps2(player2)+".");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48,43 +75,25 @@ var playerOutcom = rps(player1);
 
 
 //Here is the function that will be used for each player.
-function rps (p1) {
+ function rps (p1) {
 
 
  if (p1 <= 25) {
-  console.log("Rock");
+ return ("Rock");
 
  } else if (p1 > 25 && p1 <= 50) {
-  console.log("Paper");
+ return("Paper");
 
  } else if (p1 > 50 && p1 <= 75) {
-  console.log("Scissors");
+ return("Scissors");
  }
- return p1;
-
-}
-
-
-
- function rps2 (p2) {
-
-
-  if (p2 <= 25) {
-   console.log("You got Rock");
-
-  } else if (p2 > 25 && p1 <= 50) {
-   console.log("You got Paper");
-
-  } else if (p2 > 50 && p1 <= 75) {
-   console.log("You got Scissors");
-  }
-  return p2;
 
  }
+
 
  function validateMeWord(userPrompt) {
 
-  while (userPrompt === "" || Number(userPrompt) || parseInt(userPrompt)) {
+  while (userPrompt === "" || parseInt(userPrompt)) {
 
    userPrompt = prompt("Please type in your name and don't leave blank.");
 
