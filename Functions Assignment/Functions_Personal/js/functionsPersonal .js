@@ -31,11 +31,17 @@ WPF 1411
  }
 
 
+
+
  var fullBudget =expenses(rent,phone,food,car,internet,entertainment);
 
 //hashtag Ternary
  (monthlyIncome>=fullBudget) ? ("Good job, you did not go negative this month!") : ("You might want to either cut back on some spending or start making more money!");
 
+
+
+
+ 
 
 
 
