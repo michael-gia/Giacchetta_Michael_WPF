@@ -14,23 +14,18 @@ WPF 1411
  var itemCost =prompt("How much does Item #1 cost?");
 itemCost =validateMeNum(itemCost);
 
- console.log(itemCost);
 
 //The percent that the item is dicounted (40%)
  var discountperct = prompt("How much percent off was this item?");
  discountperct = validateMeNum2(discountperct);
 
- console.log(discountperct);
 
  //The variables calculating the cost after discount.
 
  var discount = discountperct /100 * itemCost;
 
- var discountPrice = itemCost /100 * itemCost;
-
-
-console.log(discount);
-console.log(discountPrice);
+//Final console log for the hands on.
+ console.log("The original item cost $"+itemCost+" and had a "+discount+"% discount. With the "+discount+"% discount that total price of the item came out to $"+finalPrice(itemCost)+".");
 
 
 
@@ -51,16 +46,29 @@ console.log(discountPrice);
 
 
 
- function validateMeWord(userPrompt) {
-
-  while (userPrompt === "" || parseInt(userPrompt)) {
-
-   userPrompt = prompt("Please type don't leave blank.");
-
-  }  return userPrompt;
 
 
- }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function finalPrice (cost){
+
+ var discountPrice = cost /100 * cost;
+ return discountPrice;
+
+}
+ 
 
  function validateMeNum(userPrompt) {
 
