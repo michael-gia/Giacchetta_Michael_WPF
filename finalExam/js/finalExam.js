@@ -68,24 +68,19 @@ function finalPrice (cost){
  return discountPrice;
 
 }
- 
+
 
  function validateMeNum(userPrompt) {
 
   while (userPrompt === "" || isNaN(userPrompt) ) {
-
    userPrompt = prompt("Please type in a number and don't leave blank.");
-
   }  return userPrompt;
 
  }
 
  function validateMeNum2(userPrompt) {
-
   while (userPrompt === "" || isNaN(userPrompt) || (userPrompt>=0 && userPrompt >=100) ) {
-
    userPrompt = prompt("Please type in a number from 0 to 100 and don't leave blank.");
-
   }  return userPrompt;
 
  }
